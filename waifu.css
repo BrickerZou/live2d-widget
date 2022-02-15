@@ -36,7 +36,6 @@
 #waifu:hover {
 	transform: translateY(0);
 }
-
 #waifu-tips {
 	animation: shake 50s ease-in-out 5s infinite;
 	background-color: rgba(236, 217, 188, .5);
